@@ -1,0 +1,3 @@
+--require spec_helper
+--pattern packages/*/spec/**/*_spec.rb
+--pattern spec/**/*_spec.rb
